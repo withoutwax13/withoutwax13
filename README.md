@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=withoutwax13&label=Profile%20views&color=0e75b6&style=flat" alt="withoutwax13" /> </p>
 
 <h1>Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px"></h1>
-<h1>I'm [John Patrick Valera](http://withoutwax13.github.io/).</h1>
+<h1>I'm <a href='http://withoutwax13.github.io/'>John Patrick Valera</a>.</h1>
 
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
