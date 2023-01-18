@@ -7,13 +7,13 @@
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
-- 🌱 I love **Javascript** and **KPOP**
+- 🌱 I LOVE **Javascript** and **KPOP**
 
-- 🔭 I’m currently working on my **eCommerce Mobile and Web App**
+- 🔭 Current Events: **Working on my personal software ideas** and **consuling clients on software development**
 
-- 👯 I’m looking to work on **both front-end and back-end projects**
+- 👯 Looking for: **front-end and back-end projects**
 
-- 📫 How to reach me: **johnpatrickyusoresvalera@gmail.com**
+- 📫 Email me: **johnpatrickyusoresvalera@gmail.com**
 
 - ⚡ Learning Queue: **Flutter, UI/UX Design**<img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
 
