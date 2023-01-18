@@ -7,7 +7,7 @@
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
-- 🌱 I love **Javascript**
+- 🌱 I love **Javascript** and **KPOP**
 
 - 🔭 I’m currently working on my **eCommerce Mobile and Web App**
 
@@ -15,9 +15,7 @@
 
 - 📫 How to reach me: **johnpatrickyusoresvalera@gmail.com**
 
-- ⚡ Hobbies: **KPOP**
-
-- ⚡ Learning Queue: **Flutter**<img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
+- ⚡ Learning Queue: **Flutter, UI/UX Design**<img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
 
 <p align='center'>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=withoutwax13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="withoutwax13" />
