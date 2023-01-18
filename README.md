@@ -4,7 +4,7 @@
 
 - 🌱 I LOVE **Javascript** and **KPOP**
 
-- 🔭 Current Events: **Working on my personal software ideas** and **consuling clients on software development**
+- 🔭 Current Events: **Working on my personal software ideas** and **freelancing**
 
 - 👯 Looking for: **front-end and back-end projects**
 
