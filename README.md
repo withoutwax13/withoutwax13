@@ -6,13 +6,13 @@
 
 - 🔭 Current Events: **Working on my personal software ideas** and **freelancing**
 
-- 👯 Looking for: **front-end and back-end projects**
+- 👯 Current Role: **QA Automation Engineer**
 
 - 📫 Email me: **johnpatrickyusoresvalera@gmail.com**
 
 - 📫 Visit my website: <a href='http://withoutwax13.github.io/'>Click me</a>
 
-- ⚡ Learning Queue: **Flutter, UI/UX Design**
+- ⚡ Learning Queue: **QA Automation, Flutter, UI/UX Design**
 
 <p align='center'>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=withoutwax13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="withoutwax13" />
