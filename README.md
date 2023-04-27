@@ -10,7 +10,7 @@
 
 - 📫 Email me: **johnpatrickyusoresvalera@gmail.com**
 
-- 📫 Visit my website: <a href='http://withoutwax13.github.io/'>Click me</a>
+- 📫 Visit my website: <a href='https://jpvalera.carrd.co/'>Click me</a>
 
 - ⚡ Learning Queue: **QA Automation, Flutter, UI/UX Design**
 
