@@ -4,7 +4,7 @@
 
 - 🌱 I LOVE **Javascript** and **KPOP**
 
-- 🔭 Current Events: **Working on my personal software ideas** and **freelancing**
+- 🔭 Current Events: **Working on my personal software ideas** and **fulltime job tasks**
 
 - 👯 Current Role: **QA Automation Engineer**
 
