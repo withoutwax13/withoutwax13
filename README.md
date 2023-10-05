@@ -1,7 +1,7 @@
 John Patrick Valera
 ===========================================================================================================================================
 
-Web Developer and Tester
+Web Developer and Test Automation Engineer
 ------------------------
 
 I am a talented Software Engineer with a background in web development, test automation, and a passion for creating high-quality software. I am skilled in using Jira and Cypress for test automation and a JavaScript fleet of technologies (React, Next, Node, etc.) for full-stack web development. Possesses valuable working experience in finance and banking, blockchain development, real estate, and tax administration to ensure top-notch quality for software products.
