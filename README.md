@@ -9,7 +9,7 @@ I am a talented Software Engineer with a background in web development, test aut
 * 🌍  I'm based in the Philippines
 * ✉️  You can contact me at [johnpatrickyusoresvalera@gmail.com](mailto:johnpatrickyusoresvalera@gmail.com)
 * 🧠  I'm learning UI/UX design
-* 🤝  I'm open to collaborating on products targeting to aid efforts on reducing poverty and inequality
+* 🤝  I'm open to collaborating on products targeting to aid efforts on reducing poverty and inequality, as well as any products aiming to improve education and learning
 * ⚡  I love KPOP!
 
 ### Skills
